@@ -44,10 +44,59 @@ Year: 2020
 Description:
 * An Group Assignment of COMP90051 Statistical Machine Learning Project
 * Base on 3D human action information to category their action.
-* 
+
 Keyswords: pytorch, st-gcn, rnn, tcn
 
-### 3. Restaurants Star Prediction - COMP30027 Machine Learning Assignment2 (Group,2)
+### 3. Restaurants Star Prediction  (Group,2)
 ![image](https://user-images.githubusercontent.com/48665115/134947202-1192bc58-b63e-4c82-ad7e-b0167a250c44.png)
-
 ![image](https://user-images.githubusercontent.com/48665115/134946791-71dc817f-439e-4a26-b8ad-b6714ccc02e1.png)
+
+Description:
+* COMP30027 Machine Learning Assignment2
+* Base on reviews of restaurants to predict their star level
+
+Keyswords: python, traditional-machine-learning
+
+### 4. Rumour Detection (Personal)
+Year: 2021
+
+Description:
+* COMP30027 Machine Learning Assignment2
+* Base on reviews of restaurants to predict their star level
+
+Keywords: pytorch, bert, lstm, ngram
+
+### 5. Artificial Intelligence in Sequence Game (Group,3)
+![image](https://user-images.githubusercontent.com/48665115/134949977-e787855f-6f5d-4845-af56-43a5a7e3f3e4.png)
+
+Year: 2021
+
+Video: https://youtu.be/PENYkDA46Y0
+
+Description:
+* COMP90054 AI Planning group project
+* explore the applications of different techniques to play the sequence game in the way of artificial intelligence
+
+Keywords: python, mcts, heuristic, mlp
+
+### 6. Expendibots AI (Group,2)
+![image](https://user-images.githubusercontent.com/48665115/134948967-135b03cd-ee69-4936-bcea-0ebe97a38b58.png)
+![image](https://user-images.githubusercontent.com/48665115/134949091-6cacd60c-7b1c-4b4c-b875-f59775f84e39.png)
+
+Year: 2020
+
+Description:
+* COMP30024 Artificial Intelligence Project 2
+* Design AI for Expendibots Game.
+
+Keywords: python, mcts, alpha-beta-pruning, minimax
+
+### 7. TD - Game (Group,3)
+![image](https://user-images.githubusercontent.com/48665115/134948437-c06eaacc-dbd1-41af-a2ed-ebcf23fc4752.png)
+![image](https://user-images.githubusercontent.com/48665115/134948488-a33e36e7-ac86-4280-95eb-6a2beb989cc0.png)
+Year: 2019
+
+Description:
+* A Tower Defense Game
+
+Keywords: unity
