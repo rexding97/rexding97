@@ -16,7 +16,7 @@ Discription: Implement 3 Approaches
 
 Keyswords: Tensorflow, python
 ### 3. COMP90018 Mobile Computing Prject (Group,6)
-![c8e96476608cdf1ec99414d6696de1e](https://user-images.githubusercontent.com/48665115/134943515-a1daf39d-f289-4afd-8bcf-c9dc5c814c8c.jpg)
+![image](https://user-images.githubusercontent.com/48665115/134950506-165f6629-c9d3-4de2-a5cc-06dc6fba4413.png)
 ps: wireframe by Bear.
 Discription: 
 Keyswords: JavaScript, FireBase
