@@ -26,7 +26,9 @@ Keyswords: JavaScript, FireBase
 ### 1. IT-Project (Group,5)
 ![image](https://user-images.githubusercontent.com/48665115/134944451-91a7f7f4-866e-4c4b-bf2e-7255e610e69d.png)
 ![image](https://user-images.githubusercontent.com/48665115/134945009-b90d1578-7cd3-4e6d-bad7-e49ef7eac516.png)
+
 Year: 2020
+
 Description:
 * The ePortfolio is made for a design student (our client) to display his/her artwork online.
 * Main features include: Artwork Gallery, Blog, Store, CMS.
@@ -36,10 +38,13 @@ Keyswords: HTML, CSS, JSX React, MongoDB, Heroku, RESTful
 ### 2. Human Action Recognition (Group,3)
 ![image](https://user-images.githubusercontent.com/48665115/134945324-2548b8f9-ba66-4db7-9be4-b5cbf8db1304.png)
 ![image](https://user-images.githubusercontent.com/48665115/134945746-dcb78106-59ee-4a32-bc92-4735c4453bfd.png)
+
 Year: 2020
+
 Description:
 * An Group Assignment of COMP90051 Statistical Machine Learning Project
 * Base on 3D human action information to category their action.
+* 
 Keyswords: pytorch, st-gcn, rnn, tcn
 
 ### 3. Restaurants Star Prediction - COMP30027 Machine Learning Assignment2 (Group,2)
