@@ -5,20 +5,27 @@
 ## I'm currently working on:
 ### 1. COMP90086 Computer Vision Project (Group,2)
 ![image](https://user-images.githubusercontent.com/48665115/134942706-44c5cbf6-ca37-4df0-b29a-8a59fb542671.png)
+
 Discription: Aim to investigate the problem of fine-grained geolocation in a small indoor/outdoor environment (an art museum).
+
 Keyswords: Tensorflow, python
+
 ### 2. COMP90051 Statistical Machine Learning Final Assignment (Personal)
 ![image](https://user-images.githubusercontent.com/48665115/134942828-20ad82b6-b654-471a-b094-837ccce74d82.png)
+
 Discription: Implement 3 Approaches
 * LinUCB contextual MAB (Li et al., 2010)
 * MLinUCB (Bouneffouf et al., 2020)
 * t SquareCB (Foster & Rakhlin, 2020)
 
 Keyswords: Tensorflow, python
+
 ### 3. COMP90018 Mobile Computing Prject (Group,6)
 ![image](https://user-images.githubusercontent.com/48665115/134950506-165f6629-c9d3-4de2-a5cc-06dc6fba4413.png)
 ps: wireframe by Bear.
+
 Discription: 
+
 Keyswords: JavaScript, FireBase
 
 ## Here are the Projects I worked
